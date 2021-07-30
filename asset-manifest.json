@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FCC_MarkdownPreviewer/static/css/main.698b82a7.chunk.css",
+    "main.js": "/FCC_MarkdownPreviewer/static/js/main.8163bbb2.chunk.js",
+    "main.js.map": "/FCC_MarkdownPreviewer/static/js/main.8163bbb2.chunk.js.map",
+    "runtime-main.js": "/FCC_MarkdownPreviewer/static/js/runtime-main.378e44af.js",
+    "runtime-main.js.map": "/FCC_MarkdownPreviewer/static/js/runtime-main.378e44af.js.map",
+    "static/css/2.56717fbb.chunk.css": "/FCC_MarkdownPreviewer/static/css/2.56717fbb.chunk.css",
+    "static/js/2.22b02d5b.chunk.js": "/FCC_MarkdownPreviewer/static/js/2.22b02d5b.chunk.js",
+    "static/js/2.22b02d5b.chunk.js.map": "/FCC_MarkdownPreviewer/static/js/2.22b02d5b.chunk.js.map",
+    "static/js/3.7029f238.chunk.js": "/FCC_MarkdownPreviewer/static/js/3.7029f238.chunk.js",
+    "static/js/3.7029f238.chunk.js.map": "/FCC_MarkdownPreviewer/static/js/3.7029f238.chunk.js.map",
+    "index.html": "/FCC_MarkdownPreviewer/index.html",
+    "static/css/2.56717fbb.chunk.css.map": "/FCC_MarkdownPreviewer/static/css/2.56717fbb.chunk.css.map",
+    "static/css/main.698b82a7.chunk.css.map": "/FCC_MarkdownPreviewer/static/css/main.698b82a7.chunk.css.map",
+    "static/js/2.22b02d5b.chunk.js.LICENSE.txt": "/FCC_MarkdownPreviewer/static/js/2.22b02d5b.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/FCC_MarkdownPreviewer/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.378e44af.js",
+    "static/css/2.56717fbb.chunk.css",
+    "static/js/2.22b02d5b.chunk.js",
+    "static/css/main.698b82a7.chunk.css",
+    "static/js/main.8163bbb2.chunk.js"
+  ]
+}
